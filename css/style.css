@@ -25,6 +25,10 @@
     background-image: url("../img/jesus-bailarín.gif");
 }
 
+.homero{
+    margin-top: 350px;
+    position: fixed;
+}
 .jesus-button{
     position: fixed;
     margin-top: 285px;
