@@ -1,0 +1,37 @@
+*{
+    background-color: #74B6C4;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.jesus {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 500px;
+    background-color: #74B6C4;
+    background-image: url("../img/jesus-quieto.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+}
+
+.jesus.active{
+    background-image: url("../img/jesus-bailarín.gif");
+}
+
+.jesus-button{
+    position: fixed;
+    margin-top: 285px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70px;
+    height: 70px;
+    background-color:#234c55
+}
