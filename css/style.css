@@ -33,5 +33,9 @@
     transform: translate(-50%, -50%);
     width: 70px;
     height: 70px;
-    background-color:#234c55
+    background-image: url("../img/boton.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+ 
 }
